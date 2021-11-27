@@ -11,31 +11,24 @@ from .Channel import (
 )
 
 HELP = """
-Basic Commads
+<b>⚡ Here the Admins ⚡
+ 
+🔸 @MH_Request
+🔹 @MH_Moviess
+🔸 @MH_Seriess
 
-/start :- check am Alive
-
-Bot Owner Only
-/broadcast Replay Any Message or Media
-/stats user Status
-/ban_user  click ban_user more info
-/unban_user click unban_user more info
-/banned_users Banned User Details
-/total How Many Files Added In Database
-/logger  Get Logs
-/delete Delete File From Database
+🔅 @MoviesHouse8 🔅</b>
 
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ Name : MH Auto Filter V3
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥ Creator : @Kunal_nagar_01
 
 ➥ Language : Python3
 
-➥ Library : Pyrogram Asyncio 1.13.0
+➥ Channel : @Movieshouse8
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+➥ Group : @MH_request
 """
