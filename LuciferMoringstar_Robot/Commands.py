@@ -116,7 +116,6 @@ async def start(bot, message):
             reply_markup=InlineKeyboardMarkup(
                 [[
                 InlineKeyboardButton("🍷 ᴍʏ ᴄʜᴀɴɴᴇʟ​ 🍷", url="https://t.me/movieshouse8")
-                InlineKeyboardButton(" 😎 ᴍʏ ɢʀᴏᴜᴘ​ 😎", url="https:https://t.me/mh_request") 
                 ],[
                 InlineKeyboardButton("Cᴏɴᴛᴀᴄᴛ​ 😜", callback_data="help"),
                 ]]
