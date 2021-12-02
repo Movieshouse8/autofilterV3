@@ -278,6 +278,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             buttons = [
                 [
                     InlineKeyboardButton('🥂 𝚓𝚘𝚒𝚗 𝚌𝚑𝚊𝚗𝚗𝚎𝚕​ 🥂', url=f'{TUTORIAL}')
+                ],
+                [   InlineKeyboardButton('♻️ 𝚓𝚘𝚒𝚗 𝚐𝚛𝚘𝚞𝚙​ ♻️', url="https://t.me/mh_request")
                 ]
                 ]
             await query.message.edit(text=f"{HELP}", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
@@ -286,6 +288,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             buttons = [
                 [
                     InlineKeyboardButton('🥂 𝚓𝚘𝚒𝚗 𝚌𝚑𝚊𝚗𝚗𝚎𝚕​ 🥂', url=f'{TUTORIAL}')
+                ],
+                [   InlineKeyboardButton('♻️ 𝚓𝚘𝚒𝚗 𝚐𝚛𝚘𝚞𝚙​ ♻️', url="https://t.me/mh_request")
                 ]
                 ]
             await query.message.edit(text=f"{ABOUT}", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
@@ -309,6 +313,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 buttons = [
                     [
                         InlineKeyboardButton('🥂 𝚓𝚘𝚒𝚗 𝚌𝚑𝚊𝚗𝚗𝚎𝚕​ 🥂', url=f'{TUTORIAL}')
+                    ],
+                    [   InlineKeyboardButton('♻️ 𝚓𝚘𝚒𝚗 𝚐𝚛𝚘𝚞𝚙​ ♻️', url="https://t.me/mh_request")
                     ]
                     ]
                 
@@ -340,6 +346,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 buttons = [
                     [
                         InlineKeyboardButton('🥂 𝚓𝚘𝚒𝚗 𝚌𝚑𝚊𝚗𝚗𝚎𝚕​ 🥂', url=f'{TUTORIAL}')
+                    ],
+                    [   InlineKeyboardButton('♻️ 𝚓𝚘𝚒𝚗 𝚐𝚛𝚘𝚞𝚙​ ♻️', url="https://t.me/mh_request")
                     ]
                     ]
                 
