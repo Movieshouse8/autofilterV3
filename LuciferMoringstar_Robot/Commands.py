@@ -85,6 +85,8 @@ async def start(bot, message):
                 buttons = [
                     [
                         InlineKeyboardButton('🥂 𝚓𝚘𝚒𝚗 𝚌𝚑𝚊𝚗𝚗𝚎𝚕​ 🥂', url=f'{TUTORIAL}')
+                    ],
+                    [   InlineKeyboardButton('♻️ 𝚓𝚘𝚒𝚗 𝚐𝚛𝚘𝚞𝚙​ ♻️', url="https://t.me/mh_request")
                     ]
                     ]
                 await bot.send_cached_media(
@@ -331,6 +333,8 @@ async def bot_info(bot, message):
         [
             
             InlineKeyboardButton('🥂 𝚓𝚘𝚒𝚗 𝚌𝚑𝚊𝚗𝚗𝚎𝚕​ 🥂', url=f'{TUTORIAL}')
+        ],
+        [   InlineKeyboardButton('♻️ 𝚓𝚘𝚒𝚗 𝚐𝚛𝚘𝚞𝚙​ ♻️', url="https://t.me/mh_request")
         ]
         ]
     await message.reply(text=f"{ABOUT}", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
