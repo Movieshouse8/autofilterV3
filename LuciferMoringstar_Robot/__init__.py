@@ -18,6 +18,7 @@ HELP = """
 🔸 @MH_Seriess
 
 🔅 @MoviesHouse8 🔅</b>
+<b>Iғ ʜᴀᴠᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ʀᴇɢᴀʀᴅɪɴɢ ᴜsɪɴɢ ᴍᴇ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ Mʏ Bᴏss - @Kunal_nagar_01</b>
 
 """
 
